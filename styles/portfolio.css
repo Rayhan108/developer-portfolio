@@ -160,3 +160,53 @@ color: #181818;
 margin-top: 30px;
 margin-bottom: 20px;
 }
+/* resume styles */
+.resume-content{
+  display: flex;
+  gap: 24px;
+}
+.resume{
+margin-top: 130px;
+
+/* font-weight: 700;
+font-size: 35px;
+
+color: #181818; */
+}
+.resume-title{
+  font-weight: 700;
+  font-size: 30px;
+  color: #474747;
+text-align: center;
+margin-bottom: 113px;
+}
+.resume-e{
+  font-weight: 700;
+font-size: 30px;
+color: #474747;
+}
+.degree{
+font-weight: 700;
+font-size: 25px;
+color: #474747;
+margin-top: 30px;
+margin-bottom: 30px;
+
+}
+.year{
+  font-weight: 600px;
+  font-size: 20px;
+  color: #757575;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+.edu-des{
+font-weight: 400;
+font-size: 16px;
+color: #757575;
+margin-bottom: 30px;
+}
+.resume-btn{
+  margin-top: 50px;
+text-align: center;
+}
